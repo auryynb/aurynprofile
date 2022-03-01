@@ -1,1 +1,1 @@
-# aurynprofile.github.io
+# aurynprofile
